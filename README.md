@@ -1,6 +1,6 @@
 # Deploying a Bank Note Authentication model using Flasgger
 ## This problem is part of Kaggle: https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data
-### The objective of the problem is to distinguish between forged bank notes and authentic notes. The data comprises of 4 features and 1 target columns, and then create a Flask App which can be invoked via POSTMAN or localhost.
+### The objective of the problem is to distinguish between forged bank notes and authentic notes. The data comprises of 4 features and 1 target columns, and then create a Flask App which can be invoked via localhost/POSTMAN/Heroku.
 
 #### The features are: 'variance', 'skewness', 'kurtosis', and 'entropy'. The target column is labelled as 'class'.
 
